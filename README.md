@@ -1,4 +1,4 @@
-##Freelance_Arthur_Cochea_Software_Developer
+[!Freelance_Arthur_Cochea_Software_Developer].
 
 Bienvenido al repositorio de "freelance_Arthur_Cochea". Este proyecto es una página web que combina la presentación de servicios de desarrollo de software con la venta de ropa. La página está creada utilizando HTML y CSS, incorporando patrones de Responsive Web Design y numerosos estilos CSS para una presentación visual atractiva.
 
